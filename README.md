@@ -4,5 +4,6 @@
 
 ![Taylor's Vault - POO - Apresentação Parcial (1)](https://github.com/laliahaidara/TaylorsVault/assets/106777823/5ad8ef74-6feb-446d-8293-621f2d095292)
 
-
 ![Taylor's Vault - POO - Apresentação Parcial (2)](https://github.com/laliahaidara/TaylorsVault/assets/106777823/e1d53214-1333-4bfd-8322-81d3d412763f)
+
+![Taylor's Vault - POO - Apresentação Parcial (3)](https://github.com/laliahaidara/TaylorsVault/assets/106777823/00c1c69f-a517-4a9e-80ab-856b0e9d1455)
