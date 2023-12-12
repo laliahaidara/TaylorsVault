@@ -1,6 +1,7 @@
 # TaylorsVault
 
 Python: https://colab.research.google.com/drive/1WOUcLNnHE_n_AtllnW9FfrXxUyHKHg0A?usp=sharing
+Página: file:///F:/TaylorsVault/templates/index.html#pag-SpeakNow
 
 ![Taylor's Vault - POO - Apresentação Parcial](https://github.com/laliahaidara/TaylorsVault/assets/106777823/19186141-1a61-4d0c-9f98-9e8bc322cac4)
 
