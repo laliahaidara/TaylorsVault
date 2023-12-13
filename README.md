@@ -1,6 +1,8 @@
 # TaylorsVault
 
-Python: https://colab.research.google.com/drive/1WOUcLNnHE_n_AtllnW9FfrXxUyHKHg0A?usp=sharing
+Código Python: https://colab.research.google.com/drive/1WOUcLNnHE_n_AtllnW9FfrXxUyHKHg0A?usp=sharing
+
+API - https://github.com/sarbor/taylor_swift_api.git
 ![Taylor's Vault - POO - Apresentação](https://github.com/laliahaidara/TaylorsVault/assets/106777823/d77d806c-647a-4c84-b871-d398fba2ee34)
 
 ![Taylor's Vault - POO - Apresentação (2)](https://github.com/laliahaidara/TaylorsVault/assets/106777823/1d5c9609-e4c7-4981-9c24-b78250320852)
