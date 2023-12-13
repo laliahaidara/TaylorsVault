@@ -13,7 +13,8 @@ API - https://github.com/sarbor/taylor_swift_api.git
 
 ![Taylor's Vault - POO - Apresentação (4)](https://github.com/laliahaidara/TaylorsVault/assets/106777823/80f30919-96e6-49b5-884d-8b81a26b84b5)
 
-![Taylor's Vault - POO - Apresentação (5)](https://github.com/laliahaidara/TaylorsVault/assets/106777823/cc574c7b-fd1b-4777-97f7-71456f2b1777)
+![Taylor's Vault - POO - Apresentação (9)](https://github.com/laliahaidara/TaylorsVault/assets/106777823/06b0d86d-758d-4754-b468-dd7796ec55a5)
+
 
 ![Taylor's Vault - POO - Apresentação (6)](https://github.com/laliahaidara/TaylorsVault/assets/106777823/c95d2540-2e1d-4f89-abd4-f2c89396ad4b)
 
